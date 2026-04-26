@@ -3,7 +3,7 @@
 A WhatsApp Multi-Device Bot built with Baileys for group management, automation, and fun.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
+  <a href="https://git.io/CyberBot"> 
     <img src="https://font=Ribeye&size=50&pause=1000&color=00ffe1&center=true&width=910&height=100&lines=⚡CyberBot⚡;Multi+Device+Whatsapp+Bot;Fast+Smart+Powerful" alt="Typing SVG" />
   </a> 
 </div> 
