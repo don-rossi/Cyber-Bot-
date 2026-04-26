@@ -1,9 +1,6 @@
 <h1 align="center">⚡ CyberBot ⚡</h1>
 
-<p align="center">A powerful Multi-Device WhatsApp Bot built with Baileys for group management, automation, and entertainment.</p>
-
-<div align="center"> 
-  <a href=""> 
+<p align="center">A powerful Multi-Device WhatsApp Bot built with Baileys for group management, automation, and entertainment.</p> 
     <img src="" />
   </a> 
 </div> 
