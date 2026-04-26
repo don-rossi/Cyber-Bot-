@@ -1,57 +1,65 @@
-# ⚡ CyberBot ⚡
+<h1 align="center">⚡ CyberBot ⚡</h1>
 
-A WhatsApp Multi-Device Bot built with Baileys for group management, automation, and fun.
+<p align="center">A powerful Multi-Device WhatsApp Bot built with Baileys for group management, automation, and entertainment.</p>
 
 <div align="center"> 
-  <a href="https://git.io/CyberBot"> 
-    <img src="https://font=Ribeye&size=50&pause=1000&color=00ffe1&center=true&width=910&height=100&lines=⚡CyberBot⚡;Multi+Device+Whatsapp+Bot;Fast+Smart+Powerful" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+CyberBot+⚡;Multi-Device+WhatsApp+Bot;Group+Management+%26+Automation;AI+%7C+Download+%7C+Fun+%7C+Tools" alt="Typing SVG" />
   </a> 
 </div> 
 
-<div align="center"> 
-  <img src="https://files.catbox.moe/j0q8cl.png" alt="CyberBot" height="300"> 
-</div>
+<p align="center"> 
+  <img src="https://files.catbox.moe/j0q8cl.png" alt="CyberBot" width="300"> 
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-cyan?style=for-the-badge" alt="Version"/>
-  <img src="https://img.shields.io/badge/Baileys-MD-blue?style=for-the-badge" alt="Baileys"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-00F5FF?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Baileys-MD-5865F2?style=for-the-badge" alt="Baileys"/>
+  <img src="https://img.shields.io/badge/Node-18+-339933?style=for-the-badge&logo=node.js" alt="Node"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
+</p>
 
 ---
 
-## 🚀 Deploy
+## 🚀 Deploy Now
 
-<div align="center">
+<p align="center">
   <a href="https://bot-hosting.net/">
-    <img src="https://img.shields.io/badge/Deploy-BotHosting-00d9ff?style=for-the-badge" alt="Deploy"/>
+    <img src="https://img.shields.io/badge/Deploy-BotHosting-00d9ff?style=for-the-badge&logo=vercel" alt="BotHosting"/>
   </a>
   <a href="https://dashboard.katabump.com/">
-    <img src="https://img.shields.io/badge/Deploy-Katabump-7e57c2?style=for-the-badge" alt="Katabump"/>
+    <img src="https://img.shields.io/badge/Deploy-Katabump-7e57c2?style=for-the-badge&logo=render" alt="Katabump"/>
   </a>
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET-PAIR%20CODE-ff4d4d?style=for-the-badge" alt="Pair Code"/>
+  <a href="https://knight-bot-paircode.onrender.com">
+    <img src="https://img.shields.io/badge/Get-Pair%20Code-ff4d4d?style=for-the-badge" alt="Pair Code"/>
   </a>
-</div>
+</p>
 
 ---
 
-## ⚙️ Features
+## ⚙️ Main Features
 
-- **Group:** `.tagall` `.hidetag` `.kick` `.promote` `.demote` `.mute` `.unmute`
-- **Admin:** Anti-link, Welcome/Goodbye, Auto-mute, Antidelete  
-- **Fun:** `.sticker` `.tts` `.tictactoe` `.truth` `.dare`
-- **Download:** YouTube, TikTok, Instagram, Facebook
-- **AI:** ChatGPT, Gemini, Image Generation
-- **Owner:** `.broadcast` `.ban` `.block` `.setpp` `.setname`
+| **Category** | **Commands** |
+| --- | --- |
+| **Group** | `.tagall` `.hidetag` `.kick` `.add` `.promote` `.demote` `.mute` `.unmute` |
+| **Admin** | Anti-link, Welcome/Goodbye, Auto-mute, Antidelete, Anti-viewonce |
+| **Media** | `.sticker` `.toimg` `.tovideo` `.tts` `.take` |
+| **Download** | YouTube, TikTok, Instagram, Facebook, Twitter |
+| **AI** | ChatGPT, Gemini, Blackbox, Image Generation |
+| **Fun** | `.tictactoe` `.truth` `.dare` `.meme` `.joke` |
+| **Owner** | `.broadcast` `.ban` `.unban` `.block` `.setppbot` `.restart` |
 
 ---
 
-## 🛠️ Setup
+## 🛠️ Installation
 
-### Install
+### Requirements
+- Node.js 18+
+- Git
+
+### Quick Start
 ```bash
 git clone https://github.com/YOUR_USERNAME/CyberBot-MD.git
 cd CyberBot-MD
 npm install
-node index.js
+npm start
