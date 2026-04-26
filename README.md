@@ -1,6 +1,6 @@
 # ⚡ CyberBot ⚡
 
-A powerful Multi-Device WhatsApp Bot for group management, automation, and fun.
+A WhatsApp Multi-Device Bot built with Baileys for group management, automation, and fun.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -13,14 +13,14 @@ A powerful Multi-Device WhatsApp Bot for group management, automation, and fun.
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-cyan?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-2.0-cyan?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/Baileys-MD-blue?style=for-the-badge" alt="Baileys"/>
-  <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js" alt="Node"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </div>
 
 ---
 
-## 🚀 Deploy in 1 Click
+## 🚀 Deploy
 
 <div align="center">
   <a href="https://bot-hosting.net/">
@@ -29,32 +29,29 @@ A powerful Multi-Device WhatsApp Bot for group management, automation, and fun.
   <a href="https://dashboard.katabump.com/">
     <img src="https://img.shields.io/badge/Deploy-Katabump-7e57c2?style=for-the-badge" alt="Katabump"/>
   </a>
+  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET-PAIR%20CODE-ff4d4d?style=for-the-badge" alt="Pair Code"/>
+  </a>
 </div>
 
 ---
 
 ## ⚙️ Features
 
-| **Category** | **Commands** |
-| --- | --- |
-| **Group** | `.tagall` `.hidetag` `.kick` `.add` `.promote` `.demote` |
-| **Admin** | Antilink, Welcome/Goodbye, Auto-mute, Antidelete |
-| **Fun** | `.sticker` `.tts` `.tictactoe` `.truth` `.dare` |
-| **Download** | YouTube, TikTok, Instagram, Facebook |
-| **AI** | ChatGPT, Gemini, Image Generation |
-| **Owner** | `.broadcast` `.ban` `.block` `.setpp` |
+- **Group:** `.tagall` `.hidetag` `.kick` `.promote` `.demote` `.mute` `.unmute`
+- **Admin:** Anti-link, Welcome/Goodbye, Auto-mute, Antidelete  
+- **Fun:** `.sticker` `.tts` `.tictactoe` `.truth` `.dare`
+- **Download:** YouTube, TikTok, Instagram, Facebook
+- **AI:** ChatGPT, Gemini, Image Generation
+- **Owner:** `.broadcast` `.ban` `.block` `.setpp` `.setname`
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Setup
 
-### Requirements
-- Node.js 18+
-- Git
-
-### Setup
+### Install
 ```bash
-git clone
+git clone https://github.com/YOUR_USERNAME/CyberBot-MD.git
 cd CyberBot-MD
 npm install
-npm start
+node index.js
